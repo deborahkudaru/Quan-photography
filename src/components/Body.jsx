@@ -17,7 +17,7 @@ const Body = () => {
           style={{ textDecoration: " none", color: "rgb(204, 202, 202)" }}
           className="photo-collection"
         >
-          Photo Collection
+          Photos Collections
         </Link>
         <Routes>
           <Route path="/about" render ={() => <div>photo Page</div>}/>
